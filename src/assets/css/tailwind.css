@@ -1,0 +1,17 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.font-lato {
+    font-family: "Lato";
+}
+
+.theme-color {
+    color: #17b3e4;
+}
+
+.theme-bg-color {
+    background-color: #17b3e4;
+}
